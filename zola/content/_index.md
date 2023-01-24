@@ -6,22 +6,24 @@ template = "index.html"
 
 ## Employment
 
-- July 2015 - current: Software Engineer@Drivemode,inc.
+- (2019.10 - Present) Principal Engineer @ Drivemode,inc.
+- (2015.07 - 2019.10) Software Engineer @ Drivemode,inc.
     - Develop Android app and server side API
     - Detect bottleneck of app and increase growth
-- April 2014 - June 2015: Software Engineer@istyle,inc.
+- (2014.04 - 2015.07) Software Engineer @ istyle,inc.
     - Chief software engineer since Feb 2015
     - Led team of 3 to launch video ad service from scratch
-- August 2013 - March 2014: Software Engineer@mixi marketing,inc.
+- (2013.08 - 2014.03) Software Engineer @ mixi marketing,inc.
     - Launch developer of DSP “Vantage”
-- April 2012 - August 2013: Software Engineer@mixi,inc.
+- (2012.04 - 2013.08) Software Engineer @ mixi,inc.
     - Developed a system which analyzes users’ interests and places targeted ads based on the results
 
 ## Education
 
-- March 2012 : MEng Nara Institute of Technology Graduate School of Information Science
-  - Automatic writing error correction approaches to support Japanese learners (in Japanese)
+- March 2012 : Master of Engineering, Computer Science @ Nara Institute of Technology Graduate School of Information Science
+  - Activities: Computational Linguistics Laboratory
   - Supervisor: Yuji Matsumoto
+  - Automatic writing error correction approaches to support Japanese learners (in Japanese)
 
 ## Personal projects
 
@@ -29,8 +31,8 @@ template = "index.html"
 
 ## Other activities
 
-- TOEIC: 900
-- Mitoh youth
+- June 2011: TOEIC 900
+- Oct 2011: Mitoh youth
   - My project is selected for Mitoh youth projects 2010
   - “chantokun” statistical Japanese error correction
 
