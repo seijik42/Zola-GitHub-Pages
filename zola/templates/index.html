@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1 class="title">
+        Seiji Kasahara
+    </h1>
+    <a class="fa-container" href="https://github.com/seijik42" target="_blank">
+        <i class="fa-brands fa-github fa-2x"></i>
+    </a>
+    <a class="fa-container" href="https://www.linkedin.com/in/kasahara-seiji/" target="_blank">
+        <i class="fa-brands fa-linkedin fa-2x"></i>
+    </a>
+    {{ section.content | safe }}
+{% endblock content %}
